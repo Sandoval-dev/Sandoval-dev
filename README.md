@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="left">Backend and Unity Developer from in Turkey.</h6>
+<h3 align="left">Backend and Unity Developer from in Turkey.</h3>
 
 ###
 
