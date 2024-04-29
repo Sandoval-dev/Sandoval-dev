@@ -12,7 +12,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Sandoval-dev/Sandoval-dev/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
