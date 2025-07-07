@@ -24,31 +24,40 @@
 
 <h3 align="left">🚀 Technologies & Tools:</h3>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; padding: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode" />
-  <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="30" alt="unity" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt="dot-net" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="30" alt="canva" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" height="30" alt="xamarin" />
-  <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="30" alt="androidstudio" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="30" alt="react" />
-  <img src="https://cdn.simpleicons.org/redux/764ABC" height="30" alt="redux" />
-  <img src="https://cdn.simpleicons.org/sass/CC6699" height="30" alt="sass" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs" />
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="25" alt="csharp" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="25" alt="visualstudio" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" alt="vscode" /></td>
+      <td><img src="https://cdn.simpleicons.org/unity/FFFFFF" height="25" alt="unity" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="25" alt="android" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="25" alt="bootstrap" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="25" alt="dotnetcore" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="25" alt="dot-net" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javascript" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://cdn.simpleicons.org/canva/00C4CC" height="25" alt="canva" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" alt="git" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="25" alt="sqlite" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" height="25" alt="xamarin" /></td>
+      <td><img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="25" alt="androidstudio" /></td>
+      <td><img src="https://cdn.simpleicons.org/react/61DAFB" height="25" alt="react" /></td>
+      <td><img src="https://cdn.simpleicons.org/redux/764ABC" height="25" alt="redux" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://cdn.simpleicons.org/sass/CC6699" height="25" alt="sass" /></td>
+      <td><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="25" alt="tailwindcss" /></td>
+      <td><img src="https://skillicons.dev/icons?i=nextjs" height="25" alt="nextjs" /></td>
+    </tr>
+  </table>
 </div>
+
 
 ###
 
